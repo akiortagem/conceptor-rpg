@@ -1,11 +1,18 @@
 ### Resolving Uncertain, Challenging, or Effortful Actions
+
 In this system, the moments of uncertainty, challenge, and effort in your game aren't just barriers to overcome—they're opportunities to push the story forward, regardless of success or failure. Here, every dice roll becomes part of the narrative, shaping the path the characters walk.
+
 ---
+
 #### 1. A Roll Where It Matters
+
 Actions only call for dice rolls when the stakes are real: when the outcome is uncertain, the task demands notable skill or effort, and failure would have consequences that ripple through the story. Imagine a group of adventurers standing before a towering cliff, racing against time to reach the summit before nightfall. They won’t need a roll for tying their boots, but the scramble up the loose rocks? That’s where the dice come into play.
 If the action is mundane—like opening an unlocked door—or lacks meaningful risk, no roll is needed. The story moves forward without pause.
+
 ---
+
 #### 2. How to Resolve an Action
+
 When a character attempts a significant action, follow these steps to resolve it:
 1. **Describe the Attempt**
 The player describes their character’s action, weaving it into the narrative and calling upon any relevant Descriptors. For instance: "I use my _Sleuth_ descriptor to search for hidden compartments in the desk."
@@ -22,8 +29,11 @@ The GM sets the difficulty based on the task at hand:
 The player rolls the dice pool and sums the results. Add any bonuses. A roll of 4, 5, and 3 with a +3 bonus yields a total of **15**.
 1. **Compare to the TN**
 The roll’s total determines success or failure. If the result meets or exceeds the TN, the action succeeds. Otherwise, the action fails, but the story takes an unexpected turn.
+
 ---
+
 #### 3. What Happens Next
+
 The roll’s outcome determines how the story moves forward:
 * **Success:**
 The character’s effort pays off. Rolling 15 against a TN of 15 means the hidden compartment springs open, revealing its secrets. The story proceeds smoothly.
@@ -33,14 +43,19 @@ Failure isn’t a dead end. Instead, it opens a new door. Imagine the same inves
 If a roll is close to the TN (e.g., within 2-3 points), the GM might allow partial success. In this case, the investigator finds a loose panel but disturbs the papers inside, damaging some of the clues.
 * **Critical Success****:**
 Going at least 10 above the TN means that the action is a critical success. The GM resolves the action as a success with either a Momentum award, or adding a related positive impact on top of the action. For example, a critical success in lockpicking a challenging lock could mean that the lockpicker now learns the pattern of all the locks in the building, therefore adding situational bonus of +2 when picking other locks in the same building.
+
 ---
+
 #### 4. A Story-Driven Collaboration
+
 The dice rolls are as much about storytelling as mechanics. Players and the GM collaborate to bring the results to life:
 * **Player Creativity:**
 Players describe their actions vividly and think about how their Descriptors apply. For instance: "I’m using my _Resilient_ descriptor to keep climbing, ignoring the biting cold."
 * **GM Guidance:**
 The GM adjudicates fairly, approving Descriptors that fit the narrative. They might say: "Your _Resilient_ descriptor applies to endurance but not speed; roll with 1d6."
+
 ---
+
 #### 5. Setting the Stage for Rolls
 The GM’s role in setting Target Numbers reflects the story’s stakes:
 * **Challenging (12):** A task requiring existing skill to be tested, like spotting a hidden tripwire in dim light.
