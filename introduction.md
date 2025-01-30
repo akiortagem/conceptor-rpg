@@ -1,0 +1,26 @@
+# Introduction
+## The Essence of Play
+At its heart, this game thrives on simplicity and flexibility. It’s a d6-based system where your character is defined not by complex stats but by the very concept you craft for them. Your “Character Concept” _is_ your character sheet, brought to life through carefully chosen Descriptors. These Descriptors — short phrases or sentences — capture the essence of who your character is and what they can do. Whether it’s a storied past as a “Judo Expert” or the innate ability to wield arcane forces as a “Livewire,” each Descriptor tells a story.
+Dice rolls occur only when the outcome is uncertain, challenging, or meaningful to the narrative. Success and failure aren’t about passing or failing tests but weaving twists and turns into the story. The goal isn’t to win every encounter but to tell a gripping tale together.
+## What Stories Can You Tell?
+This system is your gateway to high-octane, fast-paced adventures where creativity takes center stage. Picture the adrenaline-fueled heists of _Ocean’s Eleven_, where clever planning and tense improvisation drive the plot. Imagine the character-driven dynamics of _Guardians of the Galaxy_, where quirky heroes navigate chaotic battles and emotional connections. Think of the pulse-pounding survival horror of _Resident Evil_, where resourceful protagonists face relentless challenges and ever-present danger.
+Games centered around character growth, investigation, and tactical ingenuity flourish here. It’s perfect for text-based play, where evocative descriptions and quick thinking keep the narrative moving, much like the gripping storytelling  drama of _Mass Effect_.
+## What Stories Might Prove Elusive?
+This system shines in the spotlight of action and drama but falters where meticulous planning, precise mechanics, and complex strategy dominate. For example, the rigid tactical depth of _XCOM_ or the granular political machinations of _Game of Thrones_ may feel underserved. If you’re seeking the minute-by-minute tension of tactical war simulations or the slow-burn intrigue of shows like _House of Cards_, this might not be the right fit. The battlefield here isn’t measured in feet or meters but in narrative beats — it’s about what feels significant, not what fits on a map.
+## The Role of the Game Master
+As the Game Master (GM), you are the keeper of the world’s secrets and the architect of challenges. You’ll weave together the actions of the players with the ebb and flow of the game’s narrative, guiding the story’s direction while leaving plenty of space for player agency. Your role is to:
+* **Facilitate Creativity:** Encourage players to think outside the box and reward clever ideas. Let their Descriptors shape the world and the story.
+* **Keep the Pace:** This system thrives on quick, punchy scenes. Use fast resolution mechanics to keep the narrative moving. If something doesn’t add to the excitement or intrigue, skip it.
+* **Balance Fairly:** Adjudicate the use of Descriptors, ensuring that each one fits the situation at hand. If a player can justify a Descriptor’s use creatively and convincingly, it’s likely worth allowing.
+* **Craft Dynamic Worlds:** Establish engaging settings and scenarios. Start each encounter with a vivid scene, populated with significant elements — the crumbling church walls, the ominous chandelier above, the overturned pews waiting to be used.
+## The Role of the Players
+As a player, you’re not just controlling a character; you’re co-authoring a story. Your responsibilities include:
+* **Embrace the Narrative:** Lean into the story. Whether it’s embracing failure or celebrating success, every roll tells part of the tale.
+* **Collaborate Actively:** Work with your fellow players and GM to build the world around you. Use your Descriptors creatively to overcome obstacles or turn the tide of conflict.
+* **Think Big, Act Big:** Your character gets one meaningful action per turn. Make it count. Whether it’s a dramatic attack or a clever maneuver, every choice should push the story forward.
+* **Have Fun!** Ultimately, this game is about enjoyment. Dive into your character, relish the twists, and don’t be afraid to take risks.
+## Let’s Begin the Adventure
+This chapter serves as a compass, pointing towards the kind of storytelling this system is designed to facilitate. The rules here aren’t rigid laws but flexible guidelines to help craft memorable stories. As you embark on this journey, remember — the dice are merely tools to guide the tale; the real magic lies in your shared imagination.
+### Inspirations from Other Systems
+This system draws inspiration from other tabletop role-playing games that balance simplicity and storytelling. Notably, _Blades in the Dark_ influenced the focus on dynamic, narrative-driven scenes, while _Fate Core_ inspired the idea of Descriptors that define characters in broad, versatile terms. The quick-paced mechanics and collaborative storytelling also owe a nod to _Dungeon World_, which emphasizes fluid, cinematic gameplay.
+If you’re familiar with these systems, you may notice echoes of their philosophies here. This game is a love letter to the creative spirit of tabletop role-playing, taking the best of what works and molding it into something fresh and exciting.
