@@ -19,9 +19,11 @@ It should be noted that most NPC should have more HP than the PCs, even the weak
 
 When the NPC's attack hits, simply deduct the PC's HP by the difference of the PC's roll against the TN.
 
+An NPC's stamina is consumed when a descriptor is some extraordinary ability that not every creature has. Simply deduct the stamina by the descriptor's TN.
+
 ### Example NPC: Captain Elias Voss
 
-A hardened veteran of countless battles, Captain Elias Voss commands with unwavering confidence. His presence on the battlefield is enough to inspire his allies and intimidate his foes.
+A hardened veteran of countless battles, Captain Elias Voss commands with unwavering confidence. His presence on the battlefield is enough to inspire his allies and intimidate his foes. For that purpose these descriptors should be marked.
 
 HP: 60
 
@@ -32,7 +34,7 @@ Stamina: 30
 * **Seasoned Commander (TN 7):** Years of experience have honed his tactical instincts, making him a formidable strategist.
 * **Unshakable Resolve (TN 5):** He stands firm in the face of adversity, resisting intimidation and mental manipulation.
 * **Master Duelist (TN 6):** His expertise with the saber allows him to outmaneuver less skilled combatants with ease.
-* **Uncanny Strike (TN 10):** The captain has developed an eye to track an opening on his foes, even the most miniscule ones. This sense has enabled him to strike fatal wounds when his opponents least expect it.
+* **Uncanny Strike (TN 10, Consumes Stamina):** The captain has developed an eye to track an opening on his foes, even the most miniscule ones. This sense has enabled him to strike fatal wounds when his opponents least expect it.
 
 ### NPCs vs. NPCs
 
