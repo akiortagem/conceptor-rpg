@@ -19,11 +19,11 @@ It should be noted that most NPC should have more HP than the PCs, even the weak
 
 When the NPC's attack hits, simply deduct the PC's HP by the difference of the PC's roll against the TN.
 
-An NPC's stamina is consumed when a descriptor is some extraordinary ability that not every creature has. Simply deduct the stamina by the descriptor's TN.
+An NPC's stamina is consumed when a descriptor is some extraordinary ability that not every creature has. Simply deduct the stamina by the descriptor's TN. For that purpose these descriptors should be marked.
 
 ### Example NPC: Captain Elias Voss
 
-A hardened veteran of countless battles, Captain Elias Voss commands with unwavering confidence. His presence on the battlefield is enough to inspire his allies and intimidate his foes. For that purpose these descriptors should be marked.
+A hardened veteran of countless battles, Captain Elias Voss commands with unwavering confidence. His presence on the battlefield is enough to inspire his allies and intimidate his foes. 
 
 HP: 60
 
