@@ -61,5 +61,6 @@ The GM’s role in setting Target Numbers reflects the story’s stakes:
 * **Challenging (12):** A task requiring existing skill to be tested, like spotting a hidden tripwire in dim light.
 * **Heroic (18):** These actions pushes the heroes' skills to its limit, such as disabling a complex magical ward
 * **Improbable (24):** Near-impossible challenges, such as performing surgery during an earthquake
+
 The difficulty scale starts at "Challenging" by design. If an action doesn't merit that word and number, then it's not worth a roll. The action can be assumed a success. Similarly if an action is indeed impossible to be done by the characters, for example a mere man lifting 10 tonnes boulder, then no roll should even be attempted and the action rendered impossible.
 
