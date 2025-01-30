@@ -42,11 +42,11 @@ Effects translate Descriptors into mechanical advantages, allowing them to inter
 ## Step-by-Step Character Creation
 
 Creating a character is a streamlined, creative process that prioritizes storytelling. Follow these steps to bring your character to life:
-1. **Write a Character Concept. **Draft 3 to 5 paragraphs of freeform text describing your character. This should include their skills, favored attacks, personal quirks, and innate attributes.
-1. **Choose Your Descriptors. **Identify up to 5 distinct Descriptors from your concept that define key aspects of your character.
-1. **Assign Effects. **Distribute 15 Effect Points among your chosen Descriptors. You may stack Effects where allowed. Note that you cannot have any Descriptors that doesn't have any effects.
-1. **Calculate HP and Stamina. **Start with a base of **10 HP and 10 Stamina**. Add any bonuses from your chosen Descriptors.
-1. **Mark Attack Descriptors. **If a Descriptor includes an Attack effect (Melee or Ranged), highlight it for quick reference in combat.
+1. **Write a Character Concept.** Draft 3 to 5 paragraphs of freeform text describing your character. This should include their skills, favored attacks, personal quirks, and innate attributes.
+1. **Choose Your Descriptors.** Identify up to 5 distinct Descriptors from your concept that define key aspects of your character.
+1. **Assign Effects.** Distribute 15 Effect Points among your chosen Descriptors. You may stack Effects where allowed. Note that you cannot have any Descriptors that doesn't have any effects.
+1. **Calculate HP and Stamina.** Start with a base of **10 HP and 10 Stamina**. Add any bonuses from your chosen Descriptors.
+1. **Mark Attack Descriptors.** If a Descriptor includes an Attack effect (Melee or Ranged), highlight it for quick reference in combat.
 ---
 ### Buildalong: Creating a Character
 
