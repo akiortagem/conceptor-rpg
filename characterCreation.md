@@ -36,7 +36,8 @@ Effects translate Descriptors into mechanical advantages, allowing them to inter
 
 * **HP Bonus:** Increases the character’s health by +5 per stack.
 * **Stamina Bonus:** Increases the character’s stamina by +5 per stack.
-* **Recovery:** Allows the character to restore either HP or Stamina when the Descriptor is used. This effect can be applied multiple times, each adding +2 to the recovery amount. (HP and Stamina recovery cannot be mixed within a single Descriptor.)
+* **Recovery:** Allows the character to restore either HP of a creature when the Descriptor is used. This effect can be applied multiple times, each adding +2 to the recovery amount. When the descriptor is played, consume Stamina equal to the number of stacked effect (e.g. +4 recovery consumes 2 Stamina). If the effect is part of a Powers descriptor, double the amount healed and use the Stamina consumption from Powers effect. 
+
 * **Sabotage:** When this Descriptor is used, the character can impose a penalty on an opponent. If successful, the opponent’s Target Number (TN) for imposing obstacles on allies is reduced by 3.
 * **Support:** When this Descriptor comes into play, the character grants a +3 bonus to an ally’s next roll, when relevant
 ## Step-by-Step Character Creation
@@ -69,7 +70,7 @@ From her concept, we define the following Descriptors:
 > **Shadowstep**
 > 
 > Valeria has mastered the art of moving unseen, slipping between shadows like a ghost. Few can track her movements when she doesn't want to be found.
-> *Effects: +3 Bonus, Sabotage*
+> *Effects: +3 Bonus*
 
 > **Quick Hands**
 > 
@@ -84,7 +85,7 @@ From her concept, we define the following Descriptors:
 > **Evasion Expert**
 > 
 > Valeria has an instinctive ability to dodge danger, reacting in the blink of an eye.
-> *Effects: +5 Stamina, +2 Bonus, Sabotage*
+> *Effects: +5 Stamina, +2 Bonus*
 
 > **Silver Tongue**
 > 

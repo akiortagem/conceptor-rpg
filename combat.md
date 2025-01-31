@@ -64,6 +64,46 @@ Instead of exact ranges, each creature positioning in the battlefield is measure
 ### Turn Structure and Player Choice
 Combat does not rely on initiative rolls. Instead, players and enemies take turns in an alternating sequence, with the players deciding among themselves who acts first on their side. This collaborative turn order allows players to strategize together and sequence their actions for maximum effectiveness. Each player may perform one significant action per turn, such as attacking, reviving an ally, or manipulating the battlefield. Negligible actions, such as speaking or drawing a weapon, do not consume a turn.
 
+In their turn, a PC can do either one of : **Attack**, **Brace**, **Move**, **Improvise** and **Interact**
+
+***Attack.*** The player states a target for the PC to attack. Then include up to 3 descriptors that applies for the narrated attack. Apply bonuses from various sources, including the descriptors themselves or situational bonuses. Make the roll and subtract the target's HP by the roll result.
+
+***Brace.*** This represents how a character might expect an incoming attack and assume a defensive position. Add the "Braced" descriptor for the PC until the next round. If there are defensive objects around, such as covers, or a trench, the GM can add the "Covered" descriptor on top of it.
+
+> **Braced**
+> 
+> Expecting an incoming attack, you brace yourself and assume a defensive position to either parry or dodge it
+> *effects: +3 Bonus*
+
+> **Covered**
+> 
+> You are behind a cover, be it a trench, pile of sacks, a pillar, or even just a flipped table. This gives you advantage on avoiding ranged attacks from hostiles
+> *effects: +3 Bonus*
+
+***Move.*** The character moves one increment (near/far) towards a position, object, or a creature.
+
+***Improvise.*** This option requires both the players and the GM to work together. The GM needs to design the battlefield so that the players can have freedom to improvise. Essentially, improvising means that the PC interacts with objects around them to add descriptors to their character. For example, moving upstairs in a fencing duel can give the character a "High Ground" descriptor. Pouring grease onto themselves gives them "Greased Up" descriptor. Picking up a loose rock can add "Rock Throw" descriptor. The Improvise action can also be used to use descriptors that either has the "Sabotage" or "Support" effects, but does not have any attack effects.
+
+> **High Ground**
+> 
+> Being on the high ground is advantageous on some combat style. Fencing while higher for example, or sniping someone from a high tower.
+> *effects: +2 Bonus*
+
+> **Greased Up**
+> 
+> You are covered in grease, making it difficult for assailants to hold grab of you
+> *effects: +2 Bonus*
+
+**Interact.** Outside of the four mentioned, players can choose to interact with the battlefield around them. This means that the action that they do are narratively significant enough, but do not result in an addition of any descriptors. For example, pushing a button that would stop the self-destruct sequence of a spaceship, or reporting the situation of combat to an ally far away by recording it via a phone.
+
+Otherwise, the action is not narratively significant. Of course PCs may talk to each other and strategize in-character in the middle of combat, or perhaps drawing a weapon needed for their descriptors. Mundane action such as these does not consume the action during their turn.
+
+Outside their turn in the round, the PCs may ***React*** to a given situation or an NPC action. Their reaction can be ***Defend*** or ***Interrupt***.
+
+***Defend.*** When a hostile NPC targets a PC, they automatically defend that attack. This can be done once per round. The player makes a roll against the NPC's attack TN. A PC can also defend another PC from an attack if they themselves hasn't defended yet. If the defense fails, depending on the descriptors, the attack may hit the defender instead of the target.
+
+***Interrupt.*** If a PC has not defended on the round yet, they may choose to Interrupt an NPC action. This is usually to stop something bad from happening. Perhaps an NPC is about to push a remote bomb held in their hand and the PC interrupts by distracting the NPC. Make a roll as usual when applies, if succeed, the NPC changes its action. Or maybe a pillar in the battlefield is about to crumble, and the PC wishes to prop it up with a loose wooden beam. Interrupt action cannot be an attack or a defend.
+
 ### Tactical Depth and Strategy
 Tactical play emerges from the interplay between Descriptors, player ingenuity, and the battlefield. Enemies exploit player weaknesses whenever possible, using their own Descriptors to target vulnerabilities. Players, in turn, can counteract threats by thinking creatively and leveraging their own abilities and the environment. Strategic synergy between players’ Descriptors can lead to powerful narrative moments—such as using "Livewire" to electrify a metal walkway, incapacitating multiple enemies at once.
 

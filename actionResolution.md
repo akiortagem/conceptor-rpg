@@ -17,7 +17,7 @@ When a character attempts a significant action, follow these steps to resolve it
 1. **Describe the Attempt**
 The player describes their character’s action, weaving it into the narrative and calling upon any relevant Descriptors. For instance: "I use my _Sleuth_ descriptor to search for hidden compartments in the desk."
 1. **Build the Dice Pool**
-The GM listens and approves any applicable Descriptors, with each adding 1d6 to the pool after the first and base 1d6. Maybe the player has "Quick Hands" in addition to "Sleuth"; both could apply, granting 3d6 to roll. The maximum descriptors that can be added to an action are 3 descriptors.
+The GM listens and approves any applicable Descriptors, with each adding 1d6 to the pool after the first and base 1d6. Maybe the player has "Quick Hands" in addition to "Sleuth"; both could apply, granting 3d6 to roll. The maximum descriptors that can be added to an action are 3 descriptors. You may only add descriptors that has a narratively **net positive effect** on your action. 
 1. **Bonuses That Count**
 Add bonuses to the total from Descriptor effects or situational factors. Perhaps a high-quality magnifying glass provides a +2 bonus to their roll.
 1. **The Target Number (TN)**
